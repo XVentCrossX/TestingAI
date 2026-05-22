@@ -1,2 +1,1 @@
-# TestingAI
-Testing AI for Project
+Test AI

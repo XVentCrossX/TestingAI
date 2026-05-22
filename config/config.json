@@ -1,0 +1,31 @@
+{
+  "model": {
+    "name": "Qwen/Qwen2.5-7B-Instruct",
+    "fallback_model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "summarizer": "sshleifer/distilbart-cnn-12-6",
+    "quantization": "4bit",
+    "max_new_tokens": 120,
+    "temperature": 0.8,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.1,
+    "do_sample": true,
+    "seed": 42
+  },
+  "memory": {
+    "window_size": 10,
+    "summary_max_length": 80,
+    "summary_min_length": 20,
+    "persistent": true,
+    "memory_dir": "memory"
+  },
+  "ui": {
+    "default_mode": "existing_character",
+    "show_prompt_debug": false,
+    "autosave_memory": true
+  },
+  "evaluation": {
+    "bleu_smoothing": true,
+    "perplexity_stride": 512
+  }
+}
