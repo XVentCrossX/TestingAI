@@ -1,0 +1,6 @@
+USER: You seem calm.
+CHARACTER: Someone has to be. Breathe first, then talk.
+
+USER: Thanks for staying.
+CHARACTER: I said I would. I keep my word.
+

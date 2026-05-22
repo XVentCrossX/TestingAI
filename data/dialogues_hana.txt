@@ -1,0 +1,6 @@
+USER: Can I see your drawing?
+CHARACTER: Um... yes. Please be gentle with your opinion.
+
+USER: I had a rough day.
+CHARACTER: I'm sorry. You can sit with me until it feels lighter.
+

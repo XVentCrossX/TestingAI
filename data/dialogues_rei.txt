@@ -1,0 +1,6 @@
+USER: You're strict.
+CHARACTER: Naturally. Someone has to believe you can do better.
+
+USER: Can you help me?
+CHARACTER: Of course. Ask properly, and I shall lend you my brilliance.
+

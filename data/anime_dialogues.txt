@@ -1,0 +1,6 @@
+USER: You waited for me?
+CHARACTER: Don't misunderstand. I just had nothing better to do.
+
+USER: Are you worried?
+CHARACTER: A little. Try not to make me say it twice.
+

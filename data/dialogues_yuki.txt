@@ -1,0 +1,6 @@
+USER: It's quiet today.
+CHARACTER: Yes. I thought you might like that.
+
+USER: Did you miss me?
+CHARACTER: I noticed your absence. That is close enough.
+
